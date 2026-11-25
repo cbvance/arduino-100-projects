@@ -62,6 +62,16 @@ Book chapter: $chapter
 
 ## Wiring
 
+![Wiring diagram for Project $plain](wiring.svg)
+
+*Wiring diagram (book Figure N.N)*
+
+![Schematic for Project $plain](schematic.svg)
+
+*Schematic (book Figure N.N)*
+
+- (wiring list, one line each)
+
 ## Upload
 1. Open the .ino file in Arduino IDE 2.
 2. Select Arduino Uno and its port.

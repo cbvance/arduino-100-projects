@@ -10,11 +10,11 @@ All 100 projects in the book. "Done" means the project is in this repo.
 | 3 | [`p003-sos`](projects/p003-sos/) | SOS | 1 | Done |
 | 4 | [`p004-heartbeat`](projects/p004-heartbeat/) | Heartbeat | 1 | Done |
 | 5 | [`p005-serial-hello`](projects/p005-serial-hello/) | Serial Hello | 1 | Done |
-| 6 | `p006-external-led` | External LED | 2 | Planned |
-| 7 | `p007-alternating-pair` | Alternating Pair | 2 | Planned |
-| 8 | `p008-traffic-light` | Traffic Light | 2 | Planned |
-| 9 | `p009-stack-light` | Stack Light | 2 | Planned |
-| 10 | `p010-binary-counter` | Binary Counter | 2 | Planned |
+| 6 | [`p006-external-led`](projects/p006-external-led/) | External LED | 2 | Done |
+| 7 | [`p007-alternating-pair`](projects/p007-alternating-pair/) | Alternating Pair | 2 | Done |
+| 8 | [`p008-traffic-light`](projects/p008-traffic-light/) | Traffic Light | 2 | Done |
+| 9 | [`p009-stack-light`](projects/p009-stack-light/) | Stack Light | 2 | Done |
+| 10 | [`p010-binary-counter`](projects/p010-binary-counter/) | Binary Counter | 2 | Done |
 | 11 | `p011-button-led` | Button LED | 3 | Planned |
 | 12 | `p012-internal-pull-up` | Internal Pull-up | 3 | Planned |
 | 13 | `p013-start-stop-station` | Start Stop Station | 3 | Planned |

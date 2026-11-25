@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000" width="1000" height="1000">
+<title>Project 10 schematic</title>
+<rect width="1000" height="1000" fill="#fff"/>
+<rect x="60" y="90.0" width="270" height="810.0" rx="8" fill="#ececec" stroke="#000" stroke-width="4"/>
+<text x="195" y="140.0" font-family="DejaVu Sans" font-size="26" text-anchor="middle" font-weight="bold" font-style="normal" fill="#000" xml:space="preserve">ARDUINO</text>
+<text x="195" y="174.0" font-family="DejaVu Sans" font-size="26" text-anchor="middle" font-weight="bold" font-style="normal" fill="#000" xml:space="preserve">UNO R3</text>
+<text x="315" y="248.0" font-family="DejaVu Sans" font-size="24" text-anchor="end" font-weight="bold" font-style="normal" fill="#000" xml:space="preserve">pin 11</text>
+<line x1="330" y1="240.0" x2="420" y2="240.0" stroke="#000" stroke-width="4" stroke-linecap="round"/>
+<path d="M420 240.0 L440 240.0 L450.0 226.0 L470.0 254.0 L490.0 226.0 L510.0 254.0 L530.0 226.0 L550.0 254.0 L560 240.0 L580 240.0" fill="none" stroke="#000" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="500.0" y="212.0" font-family="DejaVu Sans" font-size="22" text-anchor="middle" font-weight="normal" font-style="normal" fill="#000" xml:space="preserve">R1  220 Ω</text>
+<line x1="580" y1="240.0" x2="660" y2="240.0" stroke="#000" stroke-width="4" stroke-linecap="round"/>
+<path d="M660 216.0 L660 264.0 L704 240.0 Z" fill="#fff" stroke="#000" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+<line x1="704" y1="216.0" x2="704" y2="264.0" stroke="#000" stroke-width="5" stroke-linecap="round"/>
+<line x1="674" y1="206.0" x2="696" y2="180.0" stroke="#000" stroke-width="3" stroke-linecap="round"/>
+<path d="M696 180.0 L690.6 197.2 L679.9 188.1 Z" fill="#000" stroke="#000" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<line x1="694" y1="206.0" x2="716" y2="180.0" stroke="#000" stroke-width="3" stroke-linecap="round"/>
+<path d="M716 180.0 L710.6 197.2 L699.9 188.1 Z" fill="#000" stroke="#000" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="682" y="298.0" font-family="DejaVu Sans" font-size="22" text-anchor="middle" font-weight="normal" font-style="normal" fill="#000" xml:space="preserve">LED1  bit 3 (8)</text>
+<line x1="704" y1="240.0" x2="840" y2="240.0" stroke="#000" stroke-width="4" stroke-linecap="round"/>
+<circle cx="840" cy="240.0" r="6" fill="#000" stroke="#000" stroke-width="0"/>
+<text x="315" y="408.0" font-family="DejaVu Sans" font-size="24" text-anchor="end" font-weight="bold" font-style="normal" fill="#000" xml:space="preserve">pin 10</text>
+<line x1="330" y1="400.0" x2="420" y2="400.0" stroke="#000" stroke-width="4" stroke-linecap="round"/>
+<path d="M420 400.0 L440 400.0 L450.0 386.0 L470.0 414.0 L490.0 386.0 L510.0 414.0 L530.0 386.0 L550.0 414.0 L560 400.0 L580 400.0" fill="none" stroke="#000" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="500.0" y="372.0" font-family="DejaVu Sans" font-size="22" text-anchor="middle" font-weight="normal" font-style="normal" fill="#000" xml:space="preserve">R2  220 Ω</text>
+<line x1="580" y1="400.0" x2="660" y2="400.0" stroke="#000" stroke-width="4" stroke-linecap="round"/>
+<path d="M660 376.0 L660 424.0 L704 400.0 Z" fill="#fff" stroke="#000" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+<line x1="704" y1="376.0" x2="704" y2="424.0" stroke="#000" stroke-width="5" stroke-linecap="round"/>
+<line x1="674" y1="366.0" x2="696" y2="340.0" stroke="#000" stroke-width="3" stroke-linecap="round"/>
+<path d="M696 340.0 L690.6 357.2 L679.9 348.1 Z" fill="#000" stroke="#000" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<line x1="694" y1="366.0" x2="716" y2="340.0" stroke="#000" stroke-width="3" stroke-linecap="round"/>
+<path d="M716 340.0 L710.6 357.2 L699.9 348.1 Z" fill="#000" stroke="#000" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="682" y="458.0" font-family="DejaVu Sans" font-size="22" text-anchor="middle" font-weight="normal" font-style="normal" fill="#000" xml:space="preserve">LED2  bit 2 (4)</text>
+<line x1="704" y1="400.0" x2="840" y2="400.0" stroke="#000" stroke-width="4" stroke-linecap="round"/>
+<circle cx="840" cy="400.0" r="6" fill="#000" stroke="#000" stroke-width="0"/>
+<text x="315" y="568.0" font-family="DejaVu Sans" font-size="24" text-anchor="end" font-weight="bold" font-style="normal" fill="#000" xml:space="preserve">pin 9</text>
+<line x1="330" y1="560.0" x2="420" y2="560.0" stroke="#000" stroke-width="4" stroke-linecap="round"/>
+<path d="M420 560.0 L440 560.0 L450.0 546.0 L470.0 574.0 L490.0 546.0 L510.0 574.0 L530.0 546.0 L550.0 574.0 L560 560.0 L580 560.0" fill="none" stroke="#000" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="500.0" y="532.0" font-family="DejaVu Sans" font-size="22" text-anchor="middle" font-weight="normal" font-style="normal" fill="#000" xml:space="preserve">R3  220 Ω</text>
+<line x1="580" y1="560.0" x2="660" y2="560.0" stroke="#000" stroke-width="4" stroke-linecap="round"/>
+<path d="M660 536.0 L660 584.0 L704 560.0 Z" fill="#fff" stroke="#000" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+<line x1="704" y1="536.0" x2="704" y2="584.0" stroke="#000" stroke-width="5" stroke-linecap="round"/>
+<line x1="674" y1="526.0" x2="696" y2="500.0" stroke="#000" stroke-width="3" stroke-linecap="round"/>
+<path d="M696 500.0 L690.6 517.2 L679.9 508.1 Z" fill="#000" stroke="#000" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<line x1="694" y1="526.0" x2="716" y2="500.0" stroke="#000" stroke-width="3" stroke-linecap="round"/>
+<path d="M716 500.0 L710.6 517.2 L699.9 508.1 Z" fill="#000" stroke="#000" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="682" y="618.0" font-family="DejaVu Sans" font-size="22" text-anchor="middle" font-weight="normal" font-style="normal" fill="#000" xml:space="preserve">LED3  bit 1 (2)</text>
+<line x1="704" y1="560.0" x2="840" y2="560.0" stroke="#000" stroke-width="4" stroke-linecap="round"/>
+<circle cx="840" cy="560.0" r="6" fill="#000" stroke="#000" stroke-width="0"/>
+<text x="315" y="728.0" font-family="DejaVu Sans" font-size="24" text-anchor="end" font-weight="bold" font-style="normal" fill="#000" xml:space="preserve">pin 8</text>
+<line x1="330" y1="720.0" x2="420" y2="720.0" stroke="#000" stroke-width="4" stroke-linecap="round"/>
+<path d="M420 720.0 L440 720.0 L450.0 706.0 L470.0 734.0 L490.0 706.0 L510.0 734.0 L530.0 706.0 L550.0 734.0 L560 720.0 L580 720.0" fill="none" stroke="#000" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="500.0" y="692.0" font-family="DejaVu Sans" font-size="22" text-anchor="middle" font-weight="normal" font-style="normal" fill="#000" xml:space="preserve">R4  220 Ω</text>
+<line x1="580" y1="720.0" x2="660" y2="720.0" stroke="#000" stroke-width="4" stroke-linecap="round"/>
+<path d="M660 696.0 L660 744.0 L704 720.0 Z" fill="#fff" stroke="#000" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+<line x1="704" y1="696.0" x2="704" y2="744.0" stroke="#000" stroke-width="5" stroke-linecap="round"/>
+<line x1="674" y1="686.0" x2="696" y2="660.0" stroke="#000" stroke-width="3" stroke-linecap="round"/>
+<path d="M696 660.0 L690.6 677.2 L679.9 668.1 Z" fill="#000" stroke="#000" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<line x1="694" y1="686.0" x2="716" y2="660.0" stroke="#000" stroke-width="3" stroke-linecap="round"/>
+<path d="M716 660.0 L710.6 677.2 L699.9 668.1 Z" fill="#000" stroke="#000" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="682" y="778.0" font-family="DejaVu Sans" font-size="22" text-anchor="middle" font-weight="normal" font-style="normal" fill="#000" xml:space="preserve">LED4  bit 0 (1)</text>
+<line x1="704" y1="720.0" x2="840" y2="720.0" stroke="#000" stroke-width="4" stroke-linecap="round"/>
+<circle cx="840" cy="720.0" r="6" fill="#000" stroke="#000" stroke-width="0"/>
+<line x1="840" y1="240.0" x2="840" y2="820.0" stroke="#000" stroke-width="4" stroke-linecap="round"/>
+<text x="315" y="828.0" font-family="DejaVu Sans" font-size="24" text-anchor="end" font-weight="bold" font-style="normal" fill="#000" xml:space="preserve">GND</text>
+<line x1="330" y1="820.0" x2="840" y2="820.0" stroke="#000" stroke-width="4" stroke-linecap="round"/>
+<circle cx="840" cy="820.0" r="6" fill="#000" stroke="#000" stroke-width="0"/>
+<line x1="840" y1="820.0" x2="840" y2="840.0" stroke="#000" stroke-width="4" stroke-linecap="round"/>
+<line x1="810" y1="840.0" x2="870" y2="840.0" stroke="#000" stroke-width="4" stroke-linecap="round"/>
+<line x1="820" y1="850.0" x2="860" y2="850.0" stroke="#000" stroke-width="4" stroke-linecap="round"/>
+<line x1="830" y1="860.0" x2="850" y2="860.0" stroke="#000" stroke-width="4" stroke-linecap="round"/>
+<text x="500" y="60" font-family="DejaVu Sans" font-size="30" text-anchor="middle" font-weight="bold" font-style="normal" fill="#000" xml:space="preserve">Project 10 schematic</text>
+</svg>
