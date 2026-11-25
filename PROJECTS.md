@@ -15,11 +15,11 @@ All 100 projects in the book. "Done" means the project is in this repo.
 | 8 | [`p008-traffic-light`](projects/p008-traffic-light/) | Traffic Light | 2 | Done |
 | 9 | [`p009-stack-light`](projects/p009-stack-light/) | Stack Light | 2 | Done |
 | 10 | [`p010-binary-counter`](projects/p010-binary-counter/) | Binary Counter | 2 | Done |
-| 11 | `p011-button-led` | Button LED | 3 | Planned |
-| 12 | `p012-internal-pull-up` | Internal Pull-up | 3 | Planned |
-| 13 | `p013-start-stop-station` | Start Stop Station | 3 | Planned |
-| 14 | `p014-press-counter` | Press Counter | 3 | Planned |
-| 15 | `p015-reaction-timer` | Reaction Timer | 3 | Planned |
+| 11 | [`p011-button-led`](projects/p011-button-led/) | Button LED | 3 | Done |
+| 12 | [`p012-internal-pull-up`](projects/p012-internal-pull-up/) | Internal Pull-up | 3 | Done |
+| 13 | [`p013-start-stop-station`](projects/p013-start-stop-station/) | Start Stop Station | 3 | Done |
+| 14 | [`p014-press-counter`](projects/p014-press-counter/) | Press Counter | 3 | Done |
+| 15 | [`p015-reaction-timer`](projects/p015-reaction-timer/) | Reaction Timer | 3 | Done |
 | 16 | `p016-fade` | Fade | 4 | Planned |
 | 17 | `p017-breathing-led` | Breathing LED | 4 | Planned |
 | 18 | `p018-rgb-mixing` | RGB Mixing | 4 | Planned |

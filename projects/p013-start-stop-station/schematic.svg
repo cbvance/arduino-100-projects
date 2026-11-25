@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000" width="1000" height="1000">
+<title>Project 13 schematic</title>
+<rect width="1000" height="1000" fill="#fff"/>
+<rect x="60" y="70.0" width="270" height="750" rx="8" fill="#ececec" stroke="#000" stroke-width="4"/>
+<text x="195" y="120.0" font-family="DejaVu Sans" font-size="26" text-anchor="middle" font-weight="bold" font-style="normal" fill="#000" xml:space="preserve">ARDUINO</text>
+<text x="195" y="154.0" font-family="DejaVu Sans" font-size="26" text-anchor="middle" font-weight="bold" font-style="normal" fill="#000" xml:space="preserve">UNO R3</text>
+<text x="315" y="228.0" font-family="DejaVu Sans" font-size="24" text-anchor="end" font-weight="bold" font-style="normal" fill="#000" xml:space="preserve">pin 3</text>
+<line x1="330" y1="220.0" x2="480" y2="220.0" stroke="#000" stroke-width="4" stroke-linecap="round"/>
+<line x1="480" y1="220.0" x2="520" y2="220.0" stroke="#000" stroke-width="4" stroke-linecap="round"/>
+<line x1="600" y1="220.0" x2="640" y2="220.0" stroke="#000" stroke-width="4" stroke-linecap="round"/>
+<circle cx="520" cy="220.0" r="7" fill="#fff" stroke="#000" stroke-width="4"/>
+<circle cx="600" cy="220.0" r="7" fill="#fff" stroke="#000" stroke-width="4"/>
+<line x1="516" y1="196.0" x2="604" y2="196.0" stroke="#000" stroke-width="5" stroke-linecap="round"/>
+<line x1="560.0" y1="196.0" x2="560.0" y2="174.0" stroke="#000" stroke-width="5" stroke-linecap="round"/>
+<text x="560.0" y="264.0" font-family="DejaVu Sans" font-size="22" text-anchor="middle" font-weight="normal" font-style="normal" fill="#000" xml:space="preserve">START</text>
+<line x1="640" y1="220.0" x2="840" y2="220.0" stroke="#000" stroke-width="4" stroke-linecap="round"/>
+<circle cx="840" cy="220.0" r="6" fill="#000" stroke="#000" stroke-width="0"/>
+<text x="315" y="368.0" font-family="DejaVu Sans" font-size="24" text-anchor="end" font-weight="bold" font-style="normal" fill="#000" xml:space="preserve">pin 2</text>
+<line x1="330" y1="360.0" x2="480" y2="360.0" stroke="#000" stroke-width="4" stroke-linecap="round"/>
+<line x1="480" y1="360.0" x2="520" y2="360.0" stroke="#000" stroke-width="4" stroke-linecap="round"/>
+<line x1="600" y1="360.0" x2="640" y2="360.0" stroke="#000" stroke-width="4" stroke-linecap="round"/>
+<circle cx="520" cy="360.0" r="7" fill="#fff" stroke="#000" stroke-width="4"/>
+<circle cx="600" cy="360.0" r="7" fill="#fff" stroke="#000" stroke-width="4"/>
+<line x1="516" y1="336.0" x2="604" y2="336.0" stroke="#000" stroke-width="5" stroke-linecap="round"/>
+<line x1="560.0" y1="336.0" x2="560.0" y2="314.0" stroke="#000" stroke-width="5" stroke-linecap="round"/>
+<text x="560.0" y="404.0" font-family="DejaVu Sans" font-size="22" text-anchor="middle" font-weight="normal" font-style="normal" fill="#000" xml:space="preserve">STOP</text>
+<line x1="640" y1="360.0" x2="840" y2="360.0" stroke="#000" stroke-width="4" stroke-linecap="round"/>
+<circle cx="840" cy="360.0" r="6" fill="#000" stroke="#000" stroke-width="0"/>
+<text x="315" y="508.0" font-family="DejaVu Sans" font-size="24" text-anchor="end" font-weight="bold" font-style="normal" fill="#000" xml:space="preserve">pin 10</text>
+<line x1="330" y1="500.0" x2="420" y2="500.0" stroke="#000" stroke-width="4" stroke-linecap="round"/>
+<path d="M420 500.0 L440 500.0 L450.0 486.0 L470.0 514.0 L490.0 486.0 L510.0 514.0 L530.0 486.0 L550.0 514.0 L560 500.0 L580 500.0" fill="none" stroke="#000" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="500.0" y="472.0" font-family="DejaVu Sans" font-size="22" text-anchor="middle" font-weight="normal" font-style="normal" fill="#000" xml:space="preserve">R1  220 Ω</text>
+<line x1="580" y1="500.0" x2="660" y2="500.0" stroke="#000" stroke-width="4" stroke-linecap="round"/>
+<path d="M660 476.0 L660 524.0 L704 500.0 Z" fill="#fff" stroke="#000" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+<line x1="704" y1="476.0" x2="704" y2="524.0" stroke="#000" stroke-width="5" stroke-linecap="round"/>
+<line x1="674" y1="466.0" x2="696" y2="440.0" stroke="#000" stroke-width="3" stroke-linecap="round"/>
+<path d="M696 440.0 L690.6 457.2 L679.9 448.1 Z" fill="#000" stroke="#000" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<line x1="694" y1="466.0" x2="716" y2="440.0" stroke="#000" stroke-width="3" stroke-linecap="round"/>
+<path d="M716 440.0 L710.6 457.2 L699.9 448.1 Z" fill="#000" stroke="#000" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="682" y="558.0" font-family="DejaVu Sans" font-size="22" text-anchor="middle" font-weight="normal" font-style="normal" fill="#000" xml:space="preserve">LED1  red  STOPPED</text>
+<line x1="704" y1="500.0" x2="840" y2="500.0" stroke="#000" stroke-width="4" stroke-linecap="round"/>
+<circle cx="840" cy="500.0" r="6" fill="#000" stroke="#000" stroke-width="0"/>
+<text x="315" y="648.0" font-family="DejaVu Sans" font-size="24" text-anchor="end" font-weight="bold" font-style="normal" fill="#000" xml:space="preserve">pin 9</text>
+<line x1="330" y1="640.0" x2="420" y2="640.0" stroke="#000" stroke-width="4" stroke-linecap="round"/>
+<path d="M420 640.0 L440 640.0 L450.0 626.0 L470.0 654.0 L490.0 626.0 L510.0 654.0 L530.0 626.0 L550.0 654.0 L560 640.0 L580 640.0" fill="none" stroke="#000" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="500.0" y="612.0" font-family="DejaVu Sans" font-size="22" text-anchor="middle" font-weight="normal" font-style="normal" fill="#000" xml:space="preserve">R2  220 Ω</text>
+<line x1="580" y1="640.0" x2="660" y2="640.0" stroke="#000" stroke-width="4" stroke-linecap="round"/>
+<path d="M660 616.0 L660 664.0 L704 640.0 Z" fill="#fff" stroke="#000" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+<line x1="704" y1="616.0" x2="704" y2="664.0" stroke="#000" stroke-width="5" stroke-linecap="round"/>
+<line x1="674" y1="606.0" x2="696" y2="580.0" stroke="#000" stroke-width="3" stroke-linecap="round"/>
+<path d="M696 580.0 L690.6 597.2 L679.9 588.1 Z" fill="#000" stroke="#000" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<line x1="694" y1="606.0" x2="716" y2="580.0" stroke="#000" stroke-width="3" stroke-linecap="round"/>
+<path d="M716 580.0 L710.6 597.2 L699.9 588.1 Z" fill="#000" stroke="#000" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="682" y="698.0" font-family="DejaVu Sans" font-size="22" text-anchor="middle" font-weight="normal" font-style="normal" fill="#000" xml:space="preserve">LED2  green  RUNNING</text>
+<line x1="704" y1="640.0" x2="840" y2="640.0" stroke="#000" stroke-width="4" stroke-linecap="round"/>
+<circle cx="840" cy="640.0" r="6" fill="#000" stroke="#000" stroke-width="0"/>
+<line x1="840" y1="220.0" x2="840" y2="740.0" stroke="#000" stroke-width="4" stroke-linecap="round"/>
+<text x="315" y="748.0" font-family="DejaVu Sans" font-size="24" text-anchor="end" font-weight="bold" font-style="normal" fill="#000" xml:space="preserve">GND</text>
+<line x1="330" y1="740.0" x2="840" y2="740.0" stroke="#000" stroke-width="4" stroke-linecap="round"/>
+<circle cx="840" cy="740.0" r="6" fill="#000" stroke="#000" stroke-width="0"/>
+<line x1="840" y1="740.0" x2="840" y2="760.0" stroke="#000" stroke-width="4" stroke-linecap="round"/>
+<line x1="810" y1="760.0" x2="870" y2="760.0" stroke="#000" stroke-width="4" stroke-linecap="round"/>
+<line x1="820" y1="770.0" x2="860" y2="770.0" stroke="#000" stroke-width="4" stroke-linecap="round"/>
+<line x1="830" y1="780.0" x2="850" y2="780.0" stroke="#000" stroke-width="4" stroke-linecap="round"/>
+<text x="500" y="45" font-family="DejaVu Sans" font-size="30" text-anchor="middle" font-weight="bold" font-style="normal" fill="#000" xml:space="preserve">Project 13 schematic</text>
+<rect x="60" y="860" width="880" height="110" rx="10" fill="#ececec" stroke="#000" stroke-width="3"/>
+<text x="500" y="905" font-family="DejaVu Sans" font-size="22" text-anchor="middle" font-weight="normal" font-style="normal" fill="#000" xml:space="preserve">The button pins use INPUT_PULLUP. Inside the chip a resistor holds</text>
+<text x="500" y="941" font-family="DejaVu Sans" font-size="22" text-anchor="middle" font-weight="normal" font-style="normal" fill="#000" xml:space="preserve">each one HIGH until its button connects it to ground.</text>
+</svg>
