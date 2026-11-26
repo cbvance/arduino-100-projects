@@ -57,7 +57,7 @@ The LED is off in room light, glows as you shade the LDR, and is full
 when you cover it. The Serial Monitor shows lines such as:
 
 ```
-450 -> 127
+450 -> 128
 ```
 
 Replace DARK (200) and BRIGHT (700) in the sketch with your own

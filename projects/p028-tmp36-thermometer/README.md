@@ -54,7 +54,7 @@ baud.
 Two lines a second, such as:
 
 ```
-0.733 V  23.3 C  73.9 F
+0.733 V  23.3 C  74.0 F
 ```
 
 Pinching the sensor raises the reading. The value moves in steps of
