@@ -58,7 +58,11 @@ Book chapter: $chapter
 
 ## What it does
 
-## Parts
+## Bill of materials
+
+| Qty | Part | Suggested part |
+|---|---|---|
+| 1 | Arduino Uno R3 | Arduino A000066 |
 
 ## Wiring
 

@@ -20,11 +20,11 @@ All 100 projects in the book. "Done" means the project is in this repo.
 | 13 | [`p013-start-stop-station`](projects/p013-start-stop-station/) | Start Stop Station | 3 | Done |
 | 14 | [`p014-press-counter`](projects/p014-press-counter/) | Press Counter | 3 | Done |
 | 15 | [`p015-reaction-timer`](projects/p015-reaction-timer/) | Reaction Timer | 3 | Done |
-| 16 | `p016-fade` | Fade | 4 | Planned |
-| 17 | `p017-breathing-led` | Breathing LED | 4 | Planned |
-| 18 | `p018-rgb-mixing` | RGB Mixing | 4 | Planned |
-| 19 | `p019-mood-lamp` | Mood Lamp | 4 | Planned |
-| 20 | `p020-candle-flicker` | Candle Flicker | 4 | Planned |
+| 16 | [`p016-fade`](projects/p016-fade/) | Fade | 4 | Done |
+| 17 | [`p017-breathing-led`](projects/p017-breathing-led/) | Breathing LED | 4 | Done |
+| 18 | [`p018-rgb-mixing`](projects/p018-rgb-mixing/) | RGB Mixing | 4 | Done |
+| 19 | [`p019-mood-lamp`](projects/p019-mood-lamp/) | Mood Lamp | 4 | Done |
+| 20 | [`p020-candle-flicker`](projects/p020-candle-flicker/) | Candle Flicker | 4 | Done |
 | 21 | `p021-pot-to-serial` | Pot to Serial | 5 | Planned |
 | 22 | `p022-dimmer` | Dimmer | 5 | Planned |
 | 23 | `p023-engineering-units` | Engineering Units | 5 | Planned |

@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000" width="1000" height="1000">
+<title>Schematic for Projects 16 and 17</title>
+<rect width="1000" height="1000" fill="#fff"/>
+<rect x="60" y="330.0" width="270" height="330" rx="8" fill="#ececec" stroke="#000" stroke-width="4"/>
+<text x="195" y="380.0" font-family="DejaVu Sans" font-size="26" text-anchor="middle" font-weight="bold" font-style="normal" fill="#000" xml:space="preserve">ARDUINO</text>
+<text x="195" y="414.0" font-family="DejaVu Sans" font-size="26" text-anchor="middle" font-weight="bold" font-style="normal" fill="#000" xml:space="preserve">UNO R3</text>
+<text x="315" y="488.0" font-family="DejaVu Sans" font-size="24" text-anchor="end" font-weight="bold" font-style="normal" fill="#000" xml:space="preserve">pin 9</text>
+<line x1="330" y1="480.0" x2="420" y2="480.0" stroke="#000" stroke-width="4" stroke-linecap="round"/>
+<path d="M420 480.0 L440 480.0 L450.0 466.0 L470.0 494.0 L490.0 466.0 L510.0 494.0 L530.0 466.0 L550.0 494.0 L560 480.0 L580 480.0" fill="none" stroke="#000" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="500.0" y="452.0" font-family="DejaVu Sans" font-size="22" text-anchor="middle" font-weight="normal" font-style="normal" fill="#000" xml:space="preserve">R1  220 Ω</text>
+<line x1="580" y1="480.0" x2="660" y2="480.0" stroke="#000" stroke-width="4" stroke-linecap="round"/>
+<path d="M660 456.0 L660 504.0 L704 480.0 Z" fill="#fff" stroke="#000" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+<line x1="704" y1="456.0" x2="704" y2="504.0" stroke="#000" stroke-width="5" stroke-linecap="round"/>
+<line x1="674" y1="446.0" x2="696" y2="420.0" stroke="#000" stroke-width="3" stroke-linecap="round"/>
+<path d="M696 420.0 L690.6 437.2 L679.9 428.1 Z" fill="#000" stroke="#000" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<line x1="694" y1="446.0" x2="716" y2="420.0" stroke="#000" stroke-width="3" stroke-linecap="round"/>
+<path d="M716 420.0 L710.6 437.2 L699.9 428.1 Z" fill="#000" stroke="#000" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="682" y="538.0" font-family="DejaVu Sans" font-size="22" text-anchor="middle" font-weight="normal" font-style="normal" fill="#000" xml:space="preserve">LED1  any color</text>
+<line x1="704" y1="480.0" x2="840" y2="480.0" stroke="#000" stroke-width="4" stroke-linecap="round"/>
+<circle cx="840" cy="480.0" r="6" fill="#000" stroke="#000" stroke-width="0"/>
+<line x1="840" y1="480.0" x2="840" y2="580.0" stroke="#000" stroke-width="4" stroke-linecap="round"/>
+<text x="315" y="588.0" font-family="DejaVu Sans" font-size="24" text-anchor="end" font-weight="bold" font-style="normal" fill="#000" xml:space="preserve">GND</text>
+<line x1="330" y1="580.0" x2="840" y2="580.0" stroke="#000" stroke-width="4" stroke-linecap="round"/>
+<circle cx="840" cy="580.0" r="6" fill="#000" stroke="#000" stroke-width="0"/>
+<line x1="840" y1="580.0" x2="840" y2="600.0" stroke="#000" stroke-width="4" stroke-linecap="round"/>
+<line x1="810" y1="600.0" x2="870" y2="600.0" stroke="#000" stroke-width="4" stroke-linecap="round"/>
+<line x1="820" y1="610.0" x2="860" y2="610.0" stroke="#000" stroke-width="4" stroke-linecap="round"/>
+<line x1="830" y1="620.0" x2="850" y2="620.0" stroke="#000" stroke-width="4" stroke-linecap="round"/>
+<text x="500" y="60" font-family="DejaVu Sans" font-size="30" text-anchor="middle" font-weight="bold" font-style="normal" fill="#000" xml:space="preserve">Schematic for Projects 16 and 17</text>
+</svg>
