@@ -25,11 +25,11 @@ All 100 projects in the book. "Done" means the project is in this repo.
 | 18 | [`p018-rgb-mixing`](projects/p018-rgb-mixing/) | RGB Mixing | 4 | Done |
 | 19 | [`p019-mood-lamp`](projects/p019-mood-lamp/) | Mood Lamp | 4 | Done |
 | 20 | [`p020-candle-flicker`](projects/p020-candle-flicker/) | Candle Flicker | 4 | Done |
-| 21 | `p021-pot-to-serial` | Pot to Serial | 5 | Planned |
-| 22 | `p022-dimmer` | Dimmer | 5 | Planned |
-| 23 | `p023-engineering-units` | Engineering Units | 5 | Planned |
-| 24 | `p024-bar-graph` | Bar Graph | 5 | Planned |
-| 25 | `p025-pot-rgb-mixer` | Pot RGB Mixer | 5 | Planned |
+| 21 | [`p021-pot-to-serial`](projects/p021-pot-to-serial/) | Pot to Serial | 5 | Done |
+| 22 | [`p022-dimmer`](projects/p022-dimmer/) | Dimmer | 5 | Done |
+| 23 | [`p023-engineering-units`](projects/p023-engineering-units/) | Engineering Units | 5 | Done |
+| 24 | [`p024-bar-graph`](projects/p024-bar-graph/) | Bar Graph | 5 | Done |
+| 25 | [`p025-pot-rgb-mixer`](projects/p025-pot-rgb-mixer/) | Pot RGB Mixer | 5 | Done |
 | 26 | `p026-night-light` | Night Light | 6 | Planned |
 | 27 | `p027-light-meter` | Light Meter | 6 | Planned |
 | 28 | `p028-tmp36-thermometer` | TMP36 Thermometer | 6 | Planned |

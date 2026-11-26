@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000" width="1000" height="1000">
+<title>Schematic for Project 21</title>
+<rect width="1000" height="1000" fill="#fff"/>
+<text x="500" y="45" font-family="DejaVu Sans" font-size="30" text-anchor="middle" font-weight="bold" font-style="normal" fill="#000" xml:space="preserve">Schematic for Project 21</text>
+<rect x="60" y="230" width="270" height="425" rx="8" fill="#ececec" stroke="#000" stroke-width="4"/>
+<text x="195" y="270" font-family="DejaVu Sans" font-size="24" text-anchor="middle" font-weight="bold" font-style="normal" fill="#000" xml:space="preserve">ARDUINO UNO R3</text>
+<text x="315" y="328" font-family="DejaVu Sans" font-size="24" text-anchor="end" font-weight="bold" font-style="normal" fill="#000" xml:space="preserve">5V</text>
+<text x="315" y="398" font-family="DejaVu Sans" font-size="24" text-anchor="end" font-weight="bold" font-style="normal" fill="#000" xml:space="preserve">A0</text>
+<line x1="330" y1="320" x2="600" y2="320" stroke="#000" stroke-width="4" stroke-linecap="round"/>
+<path d="M600 320 L600 340 L586 350.0 L614 370.0 L586 390.0 L614 410.0 L586 430.0 L614 450.0 L600 460 L600 480" fill="none" stroke="#000" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+<line x1="330" y1="390" x2="540" y2="390" stroke="#000" stroke-width="4" stroke-linecap="round"/>
+<line x1="540" y1="390" x2="582" y2="390" stroke="#000" stroke-width="4" stroke-linecap="round"/>
+<path d="M582 390 L565.4 397.0 L565.4 383.0 Z" fill="#000" stroke="#000" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="630" y="382" font-family="DejaVu Sans" font-size="22" text-anchor="start" font-weight="bold" font-style="normal" fill="#000" xml:space="preserve">POT</text>
+<text x="630" y="412" font-family="DejaVu Sans" font-size="22" text-anchor="start" font-weight="normal" font-style="normal" fill="#000" xml:space="preserve">10 kΩ</text>
+<path d="M600 480 L840 480" fill="none" stroke="#000" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="840" cy="480" r="6" fill="#000" stroke="#000" stroke-width="0"/>
+<line x1="840" y1="480" x2="840" y2="610" stroke="#000" stroke-width="4" stroke-linecap="round"/>
+<text x="315" y="618" font-family="DejaVu Sans" font-size="24" text-anchor="end" font-weight="bold" font-style="normal" fill="#000" xml:space="preserve">GND</text>
+<line x1="330" y1="610" x2="840" y2="610" stroke="#000" stroke-width="4" stroke-linecap="round"/>
+<circle cx="840" cy="610" r="6" fill="#000" stroke="#000" stroke-width="0"/>
+<line x1="840" y1="610" x2="840" y2="630" stroke="#000" stroke-width="4" stroke-linecap="round"/>
+<line x1="810" y1="630" x2="870" y2="630" stroke="#000" stroke-width="4" stroke-linecap="round"/>
+<line x1="820" y1="640" x2="860" y2="640" stroke="#000" stroke-width="4" stroke-linecap="round"/>
+<line x1="830" y1="650" x2="850" y2="650" stroke="#000" stroke-width="4" stroke-linecap="round"/>
+</svg>
