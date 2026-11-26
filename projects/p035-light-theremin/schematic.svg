@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000" width="1000" height="1000">
+<title>Schematic for Project 35</title>
+<rect width="1000" height="1000" fill="#fff"/>
+<text x="500" y="45" font-family="DejaVu Sans" font-size="30" text-anchor="middle" font-weight="bold" font-style="normal" fill="#000" xml:space="preserve">Schematic for Project 35</text>
+<rect x="60" y="90" width="270" height="880" rx="8" fill="#ececec" stroke="#000" stroke-width="4"/>
+<text x="195" y="128" font-family="DejaVu Sans" font-size="24" text-anchor="middle" font-weight="bold" font-style="normal" fill="#000" xml:space="preserve">ARDUINO UNO R3</text>
+<text x="315" y="178" font-family="DejaVu Sans" font-size="24" text-anchor="end" font-weight="bold" font-style="normal" fill="#000" xml:space="preserve">A0</text>
+<text x="315" y="243" font-family="DejaVu Sans" font-size="24" text-anchor="end" font-weight="bold" font-style="normal" fill="#000" xml:space="preserve">5V</text>
+<line x1="330" y1="235" x2="700" y2="235" stroke="#000" stroke-width="4" stroke-linecap="round"/>
+<path d="M700 235 L700 255 L686 260.8 L714 272.5 L686 284.2 L714 295.8 L686 307.5 L714 319.2 L700 325 L700 345" fill="none" stroke="#000" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="700" cy="290" r="54" fill="none" stroke="#000" stroke-width="3"/>
+<line x1="596" y1="251" x2="638" y2="273" stroke="#000" stroke-width="3" stroke-linecap="round"/>
+<path d="M638 273 L620.1 271.5 L626.6 259.1 Z" fill="#000" stroke="#000" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<line x1="596" y1="283" x2="638" y2="305" stroke="#000" stroke-width="3" stroke-linecap="round"/>
+<path d="M638 305 L620.1 303.5 L626.6 291.1 Z" fill="#000" stroke="#000" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="766" y="297" font-family="DejaVu Sans" font-size="22" text-anchor="start" font-weight="bold" font-style="normal" fill="#000" xml:space="preserve">LDR</text>
+<line x1="700" y1="345" x2="700" y2="365" stroke="#000" stroke-width="4" stroke-linecap="round"/>
+<circle cx="700" cy="365" r="6" fill="#000" stroke="#000" stroke-width="0"/>
+<path d="M330 170 L850 170 L850 365 L700 365" fill="none" stroke="#000" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M700 365 L700 385 L686 390.8 L714 402.5 L686 414.2 L714 425.8 L686 437.5 L714 449.2 L700 455 L700 475" fill="none" stroke="#000" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="736" y="416.0" font-family="DejaVu Sans" font-size="22" text-anchor="start" font-weight="bold" font-style="normal" fill="#000" xml:space="preserve">R1</text>
+<text x="736" y="444.0" font-family="DejaVu Sans" font-size="22" text-anchor="start" font-weight="normal" font-style="normal" fill="#000" xml:space="preserve">10 kΩ</text>
+<line x1="700" y1="475" x2="700" y2="495" stroke="#000" stroke-width="4" stroke-linecap="round"/>
+<line x1="670" y1="495" x2="730" y2="495" stroke="#000" stroke-width="4" stroke-linecap="round"/>
+<line x1="680" y1="505" x2="720" y2="505" stroke="#000" stroke-width="4" stroke-linecap="round"/>
+<line x1="690" y1="515" x2="710" y2="515" stroke="#000" stroke-width="4" stroke-linecap="round"/>
+<text x="315" y="548" font-family="DejaVu Sans" font-size="24" text-anchor="end" font-weight="bold" font-style="normal" fill="#000" xml:space="preserve">pin 8</text>
+<line x1="330" y1="540" x2="569.0" y2="540" stroke="#000" stroke-width="4" stroke-linecap="round"/>
+<line x1="621.0" y1="540" x2="860" y2="540" stroke="#000" stroke-width="4" stroke-linecap="round"/>
+<line x1="569.0" y1="514" x2="569.0" y2="566" stroke="#000" stroke-width="5" stroke-linecap="round"/>
+<line x1="621.0" y1="514" x2="621.0" y2="566" stroke="#000" stroke-width="5" stroke-linecap="round"/>
+<rect x="581.0" y="506" width="28" height="68" rx="0" fill="#fff" stroke="#000" stroke-width="4"/>
+<text x="595.0" y="494" font-family="DejaVu Sans" font-size="22" text-anchor="middle" font-weight="bold" font-style="normal" fill="#000" xml:space="preserve">PIEZO</text>
+<circle cx="860" cy="540" r="6" fill="#000" stroke="#000" stroke-width="0"/>
+<text x="315" y="622" font-family="DejaVu Sans" font-size="24" text-anchor="end" font-weight="bold" font-style="normal" fill="#000" xml:space="preserve">pin 5</text>
+<line x1="330" y1="614" x2="480" y2="614" stroke="#000" stroke-width="4" stroke-linecap="round"/>
+<line x1="480" y1="614" x2="520" y2="614" stroke="#000" stroke-width="4" stroke-linecap="round"/>
+<line x1="600" y1="614" x2="640" y2="614" stroke="#000" stroke-width="4" stroke-linecap="round"/>
+<circle cx="520" cy="614" r="7" fill="#fff" stroke="#000" stroke-width="4"/>
+<circle cx="600" cy="614" r="7" fill="#fff" stroke="#000" stroke-width="4"/>
+<line x1="516" y1="590" x2="604" y2="590" stroke="#000" stroke-width="5" stroke-linecap="round"/>
+<line x1="560.0" y1="590" x2="560.0" y2="568" stroke="#000" stroke-width="5" stroke-linecap="round"/>
+<text x="560.0" y="658" font-family="DejaVu Sans" font-size="22" text-anchor="middle" font-weight="normal" font-style="normal" fill="#000" xml:space="preserve"></text>
+<text x="660" y="600" font-family="DejaVu Sans" font-size="22" text-anchor="start" font-weight="normal" font-style="normal" fill="#000" xml:space="preserve">KEY 1</text>
+<line x1="640" y1="614" x2="860" y2="614" stroke="#000" stroke-width="4" stroke-linecap="round"/>
+<circle cx="860" cy="614" r="6" fill="#000" stroke="#000" stroke-width="0"/>
+<text x="315" y="696" font-family="DejaVu Sans" font-size="24" text-anchor="end" font-weight="bold" font-style="normal" fill="#000" xml:space="preserve">pin 4</text>
+<line x1="330" y1="688" x2="480" y2="688" stroke="#000" stroke-width="4" stroke-linecap="round"/>
+<line x1="480" y1="688" x2="520" y2="688" stroke="#000" stroke-width="4" stroke-linecap="round"/>
+<line x1="600" y1="688" x2="640" y2="688" stroke="#000" stroke-width="4" stroke-linecap="round"/>
+<circle cx="520" cy="688" r="7" fill="#fff" stroke="#000" stroke-width="4"/>
+<circle cx="600" cy="688" r="7" fill="#fff" stroke="#000" stroke-width="4"/>
+<line x1="516" y1="664" x2="604" y2="664" stroke="#000" stroke-width="5" stroke-linecap="round"/>
+<line x1="560.0" y1="664" x2="560.0" y2="642" stroke="#000" stroke-width="5" stroke-linecap="round"/>
+<text x="560.0" y="732" font-family="DejaVu Sans" font-size="22" text-anchor="middle" font-weight="normal" font-style="normal" fill="#000" xml:space="preserve"></text>
+<text x="660" y="674" font-family="DejaVu Sans" font-size="22" text-anchor="start" font-weight="normal" font-style="normal" fill="#000" xml:space="preserve">KEY 2</text>
+<line x1="640" y1="688" x2="860" y2="688" stroke="#000" stroke-width="4" stroke-linecap="round"/>
+<circle cx="860" cy="688" r="6" fill="#000" stroke="#000" stroke-width="0"/>
+<text x="315" y="770" font-family="DejaVu Sans" font-size="24" text-anchor="end" font-weight="bold" font-style="normal" fill="#000" xml:space="preserve">pin 3</text>
+<line x1="330" y1="762" x2="480" y2="762" stroke="#000" stroke-width="4" stroke-linecap="round"/>
+<line x1="480" y1="762" x2="520" y2="762" stroke="#000" stroke-width="4" stroke-linecap="round"/>
+<line x1="600" y1="762" x2="640" y2="762" stroke="#000" stroke-width="4" stroke-linecap="round"/>
+<circle cx="520" cy="762" r="7" fill="#fff" stroke="#000" stroke-width="4"/>
+<circle cx="600" cy="762" r="7" fill="#fff" stroke="#000" stroke-width="4"/>
+<line x1="516" y1="738" x2="604" y2="738" stroke="#000" stroke-width="5" stroke-linecap="round"/>
+<line x1="560.0" y1="738" x2="560.0" y2="716" stroke="#000" stroke-width="5" stroke-linecap="round"/>
+<text x="560.0" y="806" font-family="DejaVu Sans" font-size="22" text-anchor="middle" font-weight="normal" font-style="normal" fill="#000" xml:space="preserve"></text>
+<text x="660" y="748" font-family="DejaVu Sans" font-size="22" text-anchor="start" font-weight="normal" font-style="normal" fill="#000" xml:space="preserve">KEY 3</text>
+<line x1="640" y1="762" x2="860" y2="762" stroke="#000" stroke-width="4" stroke-linecap="round"/>
+<circle cx="860" cy="762" r="6" fill="#000" stroke="#000" stroke-width="0"/>
+<text x="315" y="844" font-family="DejaVu Sans" font-size="24" text-anchor="end" font-weight="bold" font-style="normal" fill="#000" xml:space="preserve">pin 2</text>
+<line x1="330" y1="836" x2="480" y2="836" stroke="#000" stroke-width="4" stroke-linecap="round"/>
+<line x1="480" y1="836" x2="520" y2="836" stroke="#000" stroke-width="4" stroke-linecap="round"/>
+<line x1="600" y1="836" x2="640" y2="836" stroke="#000" stroke-width="4" stroke-linecap="round"/>
+<circle cx="520" cy="836" r="7" fill="#fff" stroke="#000" stroke-width="4"/>
+<circle cx="600" cy="836" r="7" fill="#fff" stroke="#000" stroke-width="4"/>
+<line x1="516" y1="812" x2="604" y2="812" stroke="#000" stroke-width="5" stroke-linecap="round"/>
+<line x1="560.0" y1="812" x2="560.0" y2="790" stroke="#000" stroke-width="5" stroke-linecap="round"/>
+<text x="560.0" y="880" font-family="DejaVu Sans" font-size="22" text-anchor="middle" font-weight="normal" font-style="normal" fill="#000" xml:space="preserve"></text>
+<text x="660" y="822" font-family="DejaVu Sans" font-size="22" text-anchor="start" font-weight="normal" font-style="normal" fill="#000" xml:space="preserve">KEY 4</text>
+<line x1="640" y1="836" x2="860" y2="836" stroke="#000" stroke-width="4" stroke-linecap="round"/>
+<circle cx="860" cy="836" r="6" fill="#000" stroke="#000" stroke-width="0"/>
+<text x="315" y="918" font-family="DejaVu Sans" font-size="24" text-anchor="end" font-weight="bold" font-style="normal" fill="#000" xml:space="preserve">GND</text>
+<line x1="330" y1="910" x2="860" y2="910" stroke="#000" stroke-width="4" stroke-linecap="round"/>
+<line x1="860" y1="540" x2="860" y2="910" stroke="#000" stroke-width="4" stroke-linecap="round"/>
+<circle cx="860" cy="910" r="6" fill="#000" stroke="#000" stroke-width="0"/>
+<line x1="860" y1="910" x2="860" y2="930" stroke="#000" stroke-width="4" stroke-linecap="round"/>
+<line x1="830" y1="930" x2="890" y2="930" stroke="#000" stroke-width="4" stroke-linecap="round"/>
+<line x1="840" y1="940" x2="880" y2="940" stroke="#000" stroke-width="4" stroke-linecap="round"/>
+<line x1="850" y1="950" x2="870" y2="950" stroke="#000" stroke-width="4" stroke-linecap="round"/>
+</svg>

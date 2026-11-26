@@ -35,11 +35,11 @@ All 100 projects in the book. "Done" means the project is in this repo.
 | 28 | [`p028-tmp36-thermometer`](projects/p028-tmp36-thermometer/) | TMP36 Thermometer | 6 | Done |
 | 29 | [`p029-high-alarm-with-deadband`](projects/p029-high-alarm-with-deadband/) | High Alarm with Deadband | 6 | Done |
 | 30 | [`p030-serial-plotter-logger`](projects/p030-serial-plotter-logger/) | Serial Plotter Logger | 6 | Done |
-| 31 | `p031-alarm-horn-with-acknowledge` | Alarm Horn with Acknowledge | 7 | Planned |
-| 32 | `p032-scale` | Scale | 7 | Planned |
-| 33 | `p033-melody` | Melody | 7 | Planned |
-| 34 | `p034-button-piano` | Button Piano | 7 | Planned |
-| 35 | `p035-light-theremin` | Light Theremin | 7 | Planned |
+| 31 | [`p031-alarm-horn-with-acknowledge`](projects/p031-alarm-horn-with-acknowledge/) | Alarm Horn with Acknowledge | 7 | Done |
+| 32 | [`p032-scale`](projects/p032-scale/) | Scale | 7 | Done |
+| 33 | [`p033-melody`](projects/p033-melody/) | Melody | 7 | Done |
+| 34 | [`p034-button-piano`](projects/p034-button-piano/) | Button Piano | 7 | Done |
+| 35 | [`p035-light-theremin`](projects/p035-light-theremin/) | Light Theremin | 7 | Done |
 | 36 | `p036-tank-level-measurement` | Tank Level Measurement | 8 | Planned |
 | 37 | `p037-parking-sensor` | Parking Sensor | 8 | Planned |
 | 38 | `p038-pir-alarm` | PIR Alarm | 8 | Planned |
