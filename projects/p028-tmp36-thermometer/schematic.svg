@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000" width="1000" height="1000">
+<title>Schematic for Projects 28 to 30</title>
+<rect width="1000" height="1000" fill="#fff"/>
+<text x="500" y="45" font-family="DejaVu Sans" font-size="30" text-anchor="middle" font-weight="bold" font-style="normal" fill="#000" xml:space="preserve">Schematic for Projects 28 to 30</text>
+<rect x="60" y="70" width="270" height="880" rx="8" fill="#ececec" stroke="#000" stroke-width="4"/>
+<text x="195" y="105" font-family="DejaVu Sans" font-size="24" text-anchor="middle" font-weight="bold" font-style="normal" fill="#000" xml:space="preserve">ARDUINO UNO R3</text>
+<text x="315" y="168" font-family="DejaVu Sans" font-size="24" text-anchor="end" font-weight="bold" font-style="normal" fill="#000" xml:space="preserve">A0</text>
+<text x="315" y="248" font-family="DejaVu Sans" font-size="24" text-anchor="end" font-weight="bold" font-style="normal" fill="#000" xml:space="preserve">5V</text>
+<text x="315" y="688" font-family="DejaVu Sans" font-size="24" text-anchor="end" font-weight="bold" font-style="normal" fill="#000" xml:space="preserve">pin 9</text>
+<text x="315" y="868" font-family="DejaVu Sans" font-size="24" text-anchor="end" font-weight="bold" font-style="normal" fill="#000" xml:space="preserve">GND</text>
+<line x1="330" y1="240" x2="740" y2="240" stroke="#000" stroke-width="4" stroke-linecap="round"/>
+<circle cx="740" cy="240" r="6" fill="#000" stroke="#000" stroke-width="0"/>
+<path d="M740 240 L740 260 L726 268.3 L754 285.0 L726 301.7 L754 318.3 L726 335.0 L754 351.7 L740 360 L740 380" fill="none" stroke="#000" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="740" cy="310" r="62" fill="none" stroke="#000" stroke-width="3"/>
+<line x1="630" y1="270" x2="672" y2="292" stroke="#000" stroke-width="3" stroke-linecap="round"/>
+<path d="M672 292 L654.1 290.5 L660.6 278.1 Z" fill="#000" stroke="#000" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<line x1="630" y1="302" x2="672" y2="324" stroke="#000" stroke-width="3" stroke-linecap="round"/>
+<path d="M672 324 L654.1 322.5 L660.6 310.1 Z" fill="#000" stroke="#000" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="816" y="318" font-family="DejaVu Sans" font-size="22" text-anchor="start" font-weight="bold" font-style="normal" fill="#000" xml:space="preserve">LDR</text>
+<line x1="740" y1="380" x2="740" y2="410" stroke="#000" stroke-width="4" stroke-linecap="round"/>
+<circle cx="740" cy="410" r="6" fill="#000" stroke="#000" stroke-width="0"/>
+<path d="M330 160 L900 160 L900 410 L740 410" fill="none" stroke="#000" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M740 410 L740 430 L726 438.3 L754 455.0 L726 471.7 L754 488.3 L726 505.0 L754 521.7 L740 530 L740 550" fill="none" stroke="#000" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="776" y="476.0" font-family="DejaVu Sans" font-size="22" text-anchor="start" font-weight="bold" font-style="normal" fill="#000" xml:space="preserve">R1</text>
+<text x="776" y="504.0" font-family="DejaVu Sans" font-size="22" text-anchor="start" font-weight="normal" font-style="normal" fill="#000" xml:space="preserve">10 kΩ</text>
+<line x1="740" y1="550" x2="740" y2="570" stroke="#000" stroke-width="4" stroke-linecap="round"/>
+<line x1="710" y1="570" x2="770" y2="570" stroke="#000" stroke-width="4" stroke-linecap="round"/>
+<line x1="720" y1="580" x2="760" y2="580" stroke="#000" stroke-width="4" stroke-linecap="round"/>
+<line x1="730" y1="590" x2="750" y2="590" stroke="#000" stroke-width="4" stroke-linecap="round"/>
+<text x="315" y="428" font-family="DejaVu Sans" font-size="24" text-anchor="end" font-weight="bold" font-style="normal" fill="#000" xml:space="preserve">A1</text>
+<circle cx="520" cy="240" r="6" fill="#000" stroke="#000" stroke-width="0"/>
+<line x1="520" y1="240" x2="520" y2="370" stroke="#000" stroke-width="4" stroke-linecap="round"/>
+<rect x="440" y="370" width="160" height="100" rx="6" fill="#fff" stroke="#000" stroke-width="4"/>
+<text x="520" y="428" font-family="DejaVu Sans" font-size="24" text-anchor="middle" font-weight="bold" font-style="normal" fill="#000" xml:space="preserve">TMP36</text>
+<line x1="330" y1="420" x2="440" y2="420" stroke="#000" stroke-width="4" stroke-linecap="round"/>
+<text x="532" y="358" font-family="DejaVu Sans" font-size="22" text-anchor="start" font-weight="normal" font-style="normal" fill="#000" xml:space="preserve">+Vs</text>
+<text x="428" y="408" font-family="DejaVu Sans" font-size="22" text-anchor="end" font-weight="normal" font-style="normal" fill="#000" xml:space="preserve">Vout</text>
+<line x1="520" y1="470" x2="520" y2="500" stroke="#000" stroke-width="4" stroke-linecap="round"/>
+<text x="532" y="498" font-family="DejaVu Sans" font-size="22" text-anchor="start" font-weight="normal" font-style="normal" fill="#000" xml:space="preserve">GND</text>
+<line x1="520" y1="500" x2="520" y2="520" stroke="#000" stroke-width="4" stroke-linecap="round"/>
+<line x1="490" y1="520" x2="550" y2="520" stroke="#000" stroke-width="4" stroke-linecap="round"/>
+<line x1="500" y1="530" x2="540" y2="530" stroke="#000" stroke-width="4" stroke-linecap="round"/>
+<line x1="510" y1="540" x2="530" y2="540" stroke="#000" stroke-width="4" stroke-linecap="round"/>
+<line x1="330" y1="680" x2="420" y2="680" stroke="#000" stroke-width="4" stroke-linecap="round"/>
+<path d="M420 680 L440 680 L450.0 666 L470.0 694 L490.0 666 L510.0 694 L530.0 666 L550.0 694 L560 680 L580 680" fill="none" stroke="#000" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="500.0" y="652" font-family="DejaVu Sans" font-size="22" text-anchor="middle" font-weight="normal" font-style="normal" fill="#000" xml:space="preserve">R2  220 Ω</text>
+<line x1="580" y1="680" x2="660" y2="680" stroke="#000" stroke-width="4" stroke-linecap="round"/>
+<path d="M660 656 L660 704 L704 680 Z" fill="#fff" stroke="#000" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+<line x1="704" y1="656" x2="704" y2="704" stroke="#000" stroke-width="5" stroke-linecap="round"/>
+<line x1="674" y1="646" x2="696" y2="620" stroke="#000" stroke-width="3" stroke-linecap="round"/>
+<path d="M696 620 L690.6 637.2 L679.9 628.1 Z" fill="#000" stroke="#000" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<line x1="694" y1="646" x2="716" y2="620" stroke="#000" stroke-width="3" stroke-linecap="round"/>
+<path d="M716 620 L710.6 637.2 L699.9 628.1 Z" fill="#000" stroke="#000" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="682" y="738" font-family="DejaVu Sans" font-size="22" text-anchor="middle" font-weight="normal" font-style="normal" fill="#000" xml:space="preserve"></text>
+<text x="725" y="666" font-family="DejaVu Sans" font-size="22" text-anchor="start" font-weight="normal" font-style="normal" fill="#000" xml:space="preserve">LED</text>
+<line x1="704" y1="680" x2="840" y2="680" stroke="#000" stroke-width="4" stroke-linecap="round"/>
+<line x1="840" y1="680" x2="840" y2="700" stroke="#000" stroke-width="4" stroke-linecap="round"/>
+<line x1="810" y1="700" x2="870" y2="700" stroke="#000" stroke-width="4" stroke-linecap="round"/>
+<line x1="820" y1="710" x2="860" y2="710" stroke="#000" stroke-width="4" stroke-linecap="round"/>
+<line x1="830" y1="720" x2="850" y2="720" stroke="#000" stroke-width="4" stroke-linecap="round"/>
+<line x1="330" y1="860" x2="440" y2="860" stroke="#000" stroke-width="4" stroke-linecap="round"/>
+<line x1="440" y1="860" x2="440" y2="880" stroke="#000" stroke-width="4" stroke-linecap="round"/>
+<line x1="410" y1="880" x2="470" y2="880" stroke="#000" stroke-width="4" stroke-linecap="round"/>
+<line x1="420" y1="890" x2="460" y2="890" stroke="#000" stroke-width="4" stroke-linecap="round"/>
+<line x1="430" y1="900" x2="450" y2="900" stroke="#000" stroke-width="4" stroke-linecap="round"/>
+<text x="520" y="858" font-family="DejaVu Sans" font-size="22" text-anchor="start" font-weight="normal" font-style="normal" fill="#000" xml:space="preserve">Every ground symbol is the</text>
+<text x="520" y="888" font-family="DejaVu Sans" font-size="22" text-anchor="start" font-weight="normal" font-style="normal" fill="#000" xml:space="preserve">same point: Uno GND.</text>
+</svg>

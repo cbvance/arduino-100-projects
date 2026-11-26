@@ -30,11 +30,11 @@ All 100 projects in the book. "Done" means the project is in this repo.
 | 23 | [`p023-engineering-units`](projects/p023-engineering-units/) | Engineering Units | 5 | Done |
 | 24 | [`p024-bar-graph`](projects/p024-bar-graph/) | Bar Graph | 5 | Done |
 | 25 | [`p025-pot-rgb-mixer`](projects/p025-pot-rgb-mixer/) | Pot RGB Mixer | 5 | Done |
-| 26 | `p026-night-light` | Night Light | 6 | Planned |
-| 27 | `p027-light-meter` | Light Meter | 6 | Planned |
-| 28 | `p028-tmp36-thermometer` | TMP36 Thermometer | 6 | Planned |
-| 29 | `p029-high-alarm-with-deadband` | High Alarm with Deadband | 6 | Planned |
-| 30 | `p030-serial-plotter-logger` | Serial Plotter Logger | 6 | Planned |
+| 26 | [`p026-night-light`](projects/p026-night-light/) | Night Light | 6 | Done |
+| 27 | [`p027-light-meter`](projects/p027-light-meter/) | Light Meter | 6 | Done |
+| 28 | [`p028-tmp36-thermometer`](projects/p028-tmp36-thermometer/) | TMP36 Thermometer | 6 | Done |
+| 29 | [`p029-high-alarm-with-deadband`](projects/p029-high-alarm-with-deadband/) | High Alarm with Deadband | 6 | Done |
+| 30 | [`p030-serial-plotter-logger`](projects/p030-serial-plotter-logger/) | Serial Plotter Logger | 6 | Done |
 | 31 | `p031-alarm-horn-with-acknowledge` | Alarm Horn with Acknowledge | 7 | Planned |
 | 32 | `p032-scale` | Scale | 7 | Planned |
 | 33 | `p033-melody` | Melody | 7 | Planned |
